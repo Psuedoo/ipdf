@@ -14,5 +14,5 @@ pip3 install -r requirements.txt
 Convert!
 
 ```bash
-python3 convert.py --img filename.jpg --output filename.pdf
+python3 convert.py --img filename.jpg --output filename
 ```
